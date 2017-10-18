@@ -1,9 +1,9 @@
 {
-  "main.css": "static/css/main.ac81df39.css",
-  "main.css.map": "static/css/main.ac81df39.css.map",
-  "main.js": "static/js/main.5d8f6681.js",
-  "main.js.map": "static/js/main.5d8f6681.js.map",
-  "static/media/amore.mp4": "static/media/amore.4714e19c.mp4",
+  "main.css": "static/css/main.50e38e5e.css",
+  "main.css.map": "static/css/main.50e38e5e.css.map",
+  "main.js": "static/js/main.72d331a2.js",
+  "main.js.map": "static/js/main.72d331a2.js.map",
+  "static/media/amore.gif": "static/media/amore.8e866edf.gif",
   "static/media/android.svg": "static/media/android.fffb5879.svg",
   "static/media/angular.png": "static/media/angular.c4c26d7c.png",
   "static/media/api-node.png": "static/media/api-node.3b24a55b.png",
@@ -31,12 +31,12 @@
   "static/media/react-intro.png": "static/media/react-intro.22139693.png",
   "static/media/react.svg": "static/media/react.4009eef3.svg",
   "static/media/redux2.png": "static/media/redux2.59c46753.png",
-  "static/media/swapig-angular.png": "static/media/swapig-angular.a0df61ea.png",
+  "static/media/swapig-angular.png": "static/media/swapig-angular.dab8d07a.png",
   "static/media/swapig-jquery.png": "static/media/swapig-jquery.e3eb1379.png",
   "static/media/swapig.jpg": "static/media/swapig.28d6e3c8.jpg",
   "static/media/up.jpg": "static/media/up.951d34bc.jpg",
   "static/media/usb.jpg": "static/media/usb.4e597caa.jpg",
   "static/media/webpack.png": "static/media/webpack.1442d144.png",
   "static/media/xamarin.png": "static/media/xamarin.f4102496.png",
-  "static/media/yay.mp4": "static/media/yay.1329a07c.mp4"
+  "static/media/yay.gif": "static/media/yay.f7f8fe55.gif"
 }
